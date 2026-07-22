@@ -1,2 +1,2 @@
 # enterprise-kubernetes-platform
-Provision AWS infrastructure with Terraform, deploy Kubernetes, and automatically deploy applications using GitOps.
+Production-grade Kubernetes Platform on AWS using Terraform, EKS, Argo CD, Helm, GitHub Actions, Prometheus and Grafana.
